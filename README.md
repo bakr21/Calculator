@@ -18,7 +18,7 @@ This is a simple calculator built using HTML, CSS, and JavaScript. The calculato
 
 ## Project Link 🔗:
 You can view the project on GitHub here:
-[Simple Calculator on GitHub](https://bakr21.github.io/project-bakr/)
+[Simple Calculator on GitHub](https://bakr21.github.io/Calculator/)
 
 ## Screenshot of the Interface 📸:
 ![Calculator Screenshot](https://github.com/user-attachments/assets/83decdf7-dc1c-4740-9a59-e5cafa9aa2c1)
